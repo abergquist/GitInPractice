@@ -1,1 +1,3 @@
 Initial text in document.
+
+Insert a funny joke here.
